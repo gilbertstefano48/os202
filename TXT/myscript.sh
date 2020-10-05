@@ -8,8 +8,12 @@ FILES="my*.txt my*.sh"
 SHA="SHA256SUM"
 
 rm -f $SHA $SHA.asc
+touch $SHA
 
 echo "sha256sum $FILES > $SHA"
+sha256sum $FILES > $SHA
+
+echo "sha256sum -c $SHA"
 sha256sum -c $SHA
 
 echo "gpg -o $SHA.asc -a -sb $SHA"
