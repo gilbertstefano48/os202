@@ -5,3 +5,6 @@ ZCZC W00 Haskucy
 ZCZC W01 HugoIr
 ZCZC W01 fghaffar26
 ZCZC W01 gpersable
+ZCZC W02 ferenica
+ZCZC W02 fahdikrie
+ZCZC W02 hazlazuardi

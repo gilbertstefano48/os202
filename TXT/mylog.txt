@@ -26,3 +26,17 @@ ZCZC W02 15 L19 Assignment #9
 ZCZC W02 100 L05 GSGS related: Searching about Security
 ZCZC W02 40 L16 Assignment #6
 ZCZC W02 15 L18 Assignment #8
+ZCZC W03 120 L02 Zoom related
+ZCZC W03 100 L11 Assignment #1
+ZCZC W03 70 L12 Assignment #2 
+ZCZC W03 20 L13 Assignment #3
+ZCZC W03 30 L14 Assignment #4 
+ZCZC W03 120 L15 Assignment #5 
+ZCZC W03 10 L16 Assignment #6
+ZCZC W03 10 L17 Assignment #7
+ZCZC W03 15 L18 Assignment #8
+ZCZC W03 15 L19 Assignment #9 
+ZCZC W03 15 L05 GSGS related: How to use wget
+ZCZC W03 100 L05 GSGS related: for top ten list
+ZCZC W03 10 L05 GSGS related: for task 2
+ZCZC W03 180 L09 AsDos: asked AsDos about debian problem
