@@ -53,3 +53,16 @@ ZCZC W04 10 L19 Assignment #9
 ZCZC W04 15 L05 GSGS related: How to use wget
 ZCZC W04 100 L05 GSGS related: for Assignment #4
 ZCZC W04 20 L09 AsDos: asked AsDos about Assignment #6
+ZCZC W05 120 L02 Zoom related
+ZCZC W05 120 L11 Assignment #1
+ZCZC W05 20 L12 Assignment #2 
+ZCZC W05 60 L13 Assignment #3
+ZCZC W05 45 L14 Assignment #4 
+ZCZC W05 15 L15 Assignment #5 
+ZCZC W05 30 L16 Assignment #6
+ZCZC W05 20 L17 Assignment #7
+ZCZC W05 10 L18 Assignment #8
+ZCZC W05 10 L19 Assignment #9 
+ZCZC W05 15 L05 GSGS related: problem about gpg
+ZCZC W05 100 L05 GSGS related: for Assignment #4
+ZCZC W05 30 L09 AsDos: asked AsDos about Assignment #6
