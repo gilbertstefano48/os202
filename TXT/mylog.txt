@@ -66,3 +66,19 @@ ZCZC W05 10 L19 Assignment #9
 ZCZC W05 15 L05 GSGS related: problem about gpg
 ZCZC W05 100 L05 GSGS related: for Assignment #4
 ZCZC W05 30 L09 AsDos: asked AsDos about Assignment #6
+ZCZC W06 120 L02 Zoom related
+ZCZC W06 180 L11 Assignment #1
+ZCZC W06 5 L12 Assignment #2 
+ZCZC W06 120 L13 Assignment #3
+ZCZC W06 120 L14 Assignment #4 
+ZCZC W06 20 L15 Assignment #5 
+ZCZC W06 20 L16 Assignment #6
+ZCZC W06 30 L17 Assignment #7
+ZCZC W06 10 L18 Assignment #8
+ZCZC W06 10 L19 Assignment #9
+ZCZC W06 30 L20 Assignment #10
+ZCZC W06 20 L20 Assignment #11  
+ZCZC W06 15 L05 GSGS related: problem about gpg
+ZCZC W06 60 L05 GSGS related: fork() and wait() in C
+ZCZC W06 60 L05 GSGS related: for Assignment #4
+ZCZC W06 30 L09 AsDos: asked AsDos about Assignment #10
