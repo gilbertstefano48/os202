@@ -98,3 +98,17 @@ ZCZC W07 15 L05 GSGS related: problem about gpg
 ZCZC W07 60 L05 GSGS related: sempost and semwait
 ZCZC W07 60 L05 GSGS related: for Assignment #5
 ZCZC W07 30 L09 AsDos: asked AsDos about c program
+ZCZC W08 120 L02 Zoom related
+ZCZC W08 10 L11 Assignment #1
+ZCZC W08 230 L12 Assignment #2 
+ZCZC W08 5 L13 Assignment #3
+ZCZC W08 100 L14 Assignment #4 
+ZCZC W08 120 L15 Assignment #5 
+ZCZC W08 20 L16 Assignment #6
+ZCZC W08 5 L17 Assignment #7
+ZCZC W08 15 L18 Assignment #8
+ZCZC W08 5 L19 Assignment #9
+ZCZC W08 10 L20 Assignment #10 
+ZCZC W08 10 L20 Assignment #11 
+ZCZC W08 60 L05 GSGS related: for Assignment #5
+ZCZC W08 30 L09 AsDos: asked AsDos about exporting debian guest
