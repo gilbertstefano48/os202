@@ -112,3 +112,16 @@ ZCZC W08 10 L20 Assignment #10
 ZCZC W08 10 L20 Assignment #11 
 ZCZC W08 60 L05 GSGS related: for Assignment #5
 ZCZC W08 30 L09 AsDos: asked AsDos about exporting debian guest
+ZCZC W09 120 L02 Zoom related
+ZCZC W09 5 L11 Assignment #1
+ZCZC W09 120 L12 Assignment #2 
+ZCZC W09 10 L13 Assignment #3
+ZCZC W09 80 L14 Assignment #4 
+ZCZC W09 180 L15 Assignment #5 
+ZCZC W09 20 L16 Assignment #6
+ZCZC W09 20 L17 Assignment #7
+ZCZC W09 15 L18 Assignment #8
+ZCZC W09 5 L19 Assignment #9
+ZCZC W09 10 L20 Assignment #10 
+ZCZC W09 10 L20 Assignment #11 
+ZCZC W09 140 L09 AsDos: asked AsDos about for Assignment #10
